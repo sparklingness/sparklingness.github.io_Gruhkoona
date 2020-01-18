@@ -1,0 +1,55 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-c5f58849c2f4732d93c1.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.f7097771ba361f324b60.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-3a5b707a2a55936bf960.js
+  Cache-Control: public, max-age=31536000, immutable
+/commons-ff5f23ae6ae65370f31e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-jsx-b8261ce1eab2f22631bd.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-category-jsx-53fc9b8f83cc2ddb7052.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-jsx-189b803835f08f9cafd7.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-d0054737bf61460534f3.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-b1a6689bc14fcd58c727.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-d0054737bf61460534f3.js>; rel=preload; as=script
+  Link: </commons-ff5f23ae6ae65370f31e.js>; rel=preload; as=script
+  Link: </app-b1a6689bc14fcd58c727.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-c5f58849c2f4732d93c1.js>; rel=preload; as=script
+/2020-01-05-test
+  Link: </webpack-runtime-d0054737bf61460534f3.js>; rel=preload; as=script
+  Link: </commons-ff5f23ae6ae65370f31e.js>; rel=preload; as=script
+  Link: </app-b1a6689bc14fcd58c727.js>; rel=preload; as=script
+  Link: </styles-3a5b707a2a55936bf960.js>; rel=preload; as=script
+  Link: </commons-ff5f23ae6ae65370f31e.js>; rel=preload; as=script
+  Link: </component---src-templates-post-jsx-b8261ce1eab2f22631bd.js>; rel=preload; as=script
+/categories/fast-ai
+  Link: </webpack-runtime-d0054737bf61460534f3.js>; rel=preload; as=script
+  Link: </commons-ff5f23ae6ae65370f31e.js>; rel=preload; as=script
+  Link: </app-b1a6689bc14fcd58c727.js>; rel=preload; as=script
+  Link: </styles-3a5b707a2a55936bf960.js>; rel=preload; as=script
+  Link: </commons-ff5f23ae6ae65370f31e.js>; rel=preload; as=script
+  Link: </component---src-templates-category-jsx-53fc9b8f83cc2ddb7052.js>; rel=preload; as=script
+/
+  Link: </webpack-runtime-d0054737bf61460534f3.js>; rel=preload; as=script
+  Link: </commons-ff5f23ae6ae65370f31e.js>; rel=preload; as=script
+  Link: </app-b1a6689bc14fcd58c727.js>; rel=preload; as=script
+  Link: </styles-3a5b707a2a55936bf960.js>; rel=preload; as=script
+  Link: </commons-ff5f23ae6ae65370f31e.js>; rel=preload; as=script
+  Link: </component---src-pages-index-jsx-189b803835f08f9cafd7.js>; rel=preload; as=script
